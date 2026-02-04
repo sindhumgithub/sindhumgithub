@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="DevOps 2.png" alt="DevOps Banner" width="100%" />
+  <img src="DevOps 2.png" alt="DevOps Banner" style="width:100%; max-width:1400px;">
 </p>
 
 ---
