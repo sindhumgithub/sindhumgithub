@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="DevOps 2.png" alt="DevOps Banner" width="100%" />
+</p>
+
+---
 ## Hi there 👋
 
 <!--
