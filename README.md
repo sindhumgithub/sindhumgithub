@@ -16,7 +16,11 @@
 
 ## 🚀 About Me
 
-- 💼 DevOps Engineer with **3.5 years of hands-on experience**
+<table>
+<tr>
+<td width="65%">
+
+- 💼 DevOps Engineer with **4 years of hands-on experience**
 - ☁️ Strong expertise in **AWS Cloud services**
 - 🔁 Built and managed **CI/CD pipelines using Jenkins**
 - 🐳 Containerized applications using **Docker**
@@ -24,6 +28,15 @@
 - 🧱 Automated infrastructure using **Terraform & Ansible**
 - 🔐 Improved cloud security with **IAM best practices**
 - ⚡ Passionate about automation, reliability, and scalability
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/sindhumgithub/sindhumgithub/main/about-me.png" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
