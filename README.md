@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sindhuja</h1>
-<h3 align="center">DevOps Engineer | AWS | Kubernetes | CI/CD | Terraform</h3>
+<h3 align="center">DevOps Engineer | AWS | Docker | Kubernetes | CI/CD | Terraform</h3>
 
 ---
 
