@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sindhuja</h1>
-<h3 align="center">DevOps Engineer | AWS | Docker | Kubernetes | CI/CD | Terraform</h3>
+<h3 align="center">DevOps Engineer | AWS | Docker | Kubernetes | Jenkins | Terraform | Ansible | Prometheus | Grafana </h3>
 
 ---
 
@@ -31,6 +31,8 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-EE0000?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-EE0000?style=for-the-badge&logo=Grafana&logoColor=white)
 
 ### 💻 Version Control & OS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -68,4 +70,9 @@
   <a href="https://www.linkedin.com/in/sindhuja-muddana-400800388">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sindhuja.devops@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+>
