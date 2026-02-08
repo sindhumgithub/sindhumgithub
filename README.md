@@ -3,10 +3,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sindhuja</h1>
-<h3 align="center">
-  <span style="color:#0A66C2;">DevOps Engineer</span> |
-  AWS | Docker | Kubernetes | Jenkins | Terraform | Ansible | Prometheus | Grafana
-</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes" />
+</p>
 
 ---
 
