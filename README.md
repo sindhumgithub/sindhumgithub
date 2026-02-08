@@ -5,14 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sindhuja</h1>
 <h3 align="center">
   <span style="color:#0A66C2;">DevOps Engineer</span> |
-  <span style="color:#FF9900;">AWS</span> |
-  <span style="color:#2496ED;">Docker</span> |
-  <span style="color:#326CE5;">Kubernetes</span> |
-  <span style="color:#D24939;">Jenkins</span> |
-  <span style="color:#623CE4;">Terraform</span> |
-  <span style="color:#EE0000;">Ansible</span> |
-  <span style="color:#E6522C;">Prometheus</span> |
-  <span style="color:#F46800;">Grafana</span>
+  AWS | Docker | Kubernetes | Jenkins | Terraform | Ansible | Prometheus | Grafana
 </h3>
 
 ---
