@@ -3,12 +3,17 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sindhuja</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes" />
-</p>
+<h3 align="center">
+  <span style="color:#0A66C2;">DevOps Engineer</span> |
+  <span style="color:#FF9900;">AWS</span> |
+  <span style="color:#2496ED;">Docker</span> |
+  <span style="color:#326CE5;">Kubernetes</span> |
+  <span style="color:#D24939;">Jenkins</span> |
+  <span style="color:#623CE4;">Terraform</span> |
+  <span style="color:#EE0000;">Ansible</span> |
+  <span style="color:#E6522C;">Prometheus</span> |
+  <span style="color:#F46800;">Grafana</span>
+</h3>
 
 ---
 
