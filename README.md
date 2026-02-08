@@ -13,12 +13,11 @@
 </h3>
 
 ---
-
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="65%">
+<table width="100%" cellspacing="0" cellpadding="0" style="border:none;">
+<tr style="border:none;">
+<td width="65%" style="border:none;">
 
 - 💼 DevOps Engineer with **4 years of hands-on experience**
 - ☁️ Strong expertise in **AWS Cloud services**
@@ -30,9 +29,10 @@
 - ⚡ Passionate about automation, reliability, and scalability
 
 </td>
-<td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/sindhumgithub/sindhumgithub/main/about-me.png" width="250"/>
+<td width="35%" align="right" style="border:none;">
+
+<img src="https://raw.githubusercontent.com/sindhumgithub/sindhumgithub/main/about-me.png" width="260"/>
 
 </td>
 </tr>
