@@ -15,9 +15,9 @@
 ---
 ## 🚀 About Me
 
-<div style="display:flex; align-items:center; justify-content:space-between;">
-
-<div style="width:65%;">
+<table>
+<tr>
+<td width="65%" valign="top">
 
 - 💼 DevOps Engineer with **4 years of hands-on experience**
 - ☁️ Strong expertise in **AWS Cloud services**
@@ -28,13 +28,15 @@
 - 🔐 Improved cloud security with **IAM best practices**
 - ⚡ Passionate about automation, reliability, and scalability
 
-</div>
+</td>
 
-<div style="width:30%; text-align:right;">
-  <img src="https://raw.githubusercontent.com/sindhumgithub/sindhumgithub/main/about-me.png" width="250"/>
-</div>
+<td width="35%" align="right">
 
-</div>
+<img src="https://raw.githubusercontent.com/sindhumgithub/sindhumgithub/main/about-me.png" width="260"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
