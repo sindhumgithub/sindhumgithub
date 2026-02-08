@@ -51,11 +51,14 @@
 
 ---
 
-## 📌 Top Languages
+## 🧠 Core Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhumgithub&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- AWS (EC2, S3, IAM, VPC, RDS)
+- CI/CD with Jenkins
+- Docker & Kubernetes
+- Terraform & Ansible
+- Linux & Shell Scripting
+- Git & GitHub
 
 ---
 
