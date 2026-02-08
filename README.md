@@ -16,32 +16,14 @@
 
 ## 🚀 About Me
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-
-<ul>
-  <li>💼 DevOps Engineer with <b>4 years of hands-on experience</b></li>
-  <li>☁️ Strong expertise in <b>AWS Cloud services</b></li>
-  <li>🔁 Built and managed <b>CI/CD pipelines using Jenkins</b></li>
-  <li>🐳 Containerized applications using <b>Docker</b></li>
-  <li>☸️ Deployed and managed workloads on <b>Kubernetes</b></li>
-  <li>🧱 Automated infrastructure using <b>Terraform & Ansible</b></li>
-  <li>🔐 Improved cloud security with <b>IAM best practices</b></li>
-  <li>⚡ Passionate about automation, reliability, and scalability</li>
-</ul>
-
-    </td>
-
-    <td width="35%" align="right">
-      <img 
-        src="https://raw.githubusercontent.com/sindhumgithub/sindhumgithub/main/about-me.png"
-        width="260"
-        alt="DevOps illustration"
-      />
-    </td>
-  </tr>
-</table>
+- 💼 DevOps Engineer with **3.5 years of hands-on experience**
+- ☁️ Strong expertise in **AWS Cloud services**
+- 🔁 Built and managed **CI/CD pipelines using Jenkins**
+- 🐳 Containerized applications using **Docker**
+- ☸️ Deployed and managed workloads on **Kubernetes**
+- 🧱 Automated infrastructure using **Terraform & Ansible**
+- 🔐 Improved cloud security with **IAM best practices**
+- ⚡ Passionate about automation, reliability, and scalability
 
 ---
 
