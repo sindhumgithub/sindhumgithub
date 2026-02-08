@@ -51,12 +51,12 @@
 
 ## 🧠 Core Skills
 
-- AWS (EC2, S3, IAM, VPC, RDS)
-- CI/CD with Jenkins
-- Docker & Kubernetes
-- Terraform & Ansible
-- Linux & Shell Scripting
-- Git & GitHub
+- ☁️ **AWS Cloud**: EC2, S3, IAM, VPC, RDS, Auto Scaling
+- 🔁 **CI/CD**: Jenkins pipelines, automated builds & deployments
+- 🐳 **Containers & Orchestration**: Docker, Kubernetes
+- 🧱 **Infrastructure as Code**: Terraform, Ansible
+- 🐧 **OS & Scripting**: Linux, Shell scripting (Bash)
+- 🔧 **Version Control**: Git, GitHub
 
 ---
 
@@ -71,4 +71,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
->
