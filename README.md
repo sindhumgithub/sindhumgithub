@@ -16,22 +16,23 @@
 
 ## 🚀 About Me
 
-<div style="display: flex; align-items: center; gap: 2rem;">
-  <div style="flex: 7;">
-    💼 DevOps Engineer with <b>4 years of hands-on experience</b><br>
-    ☁️ Strong expertise in <b>AWS Cloud services</b><br>
-    🔁 Built and managed <b>CI/CD pipelines using Jenkins</b><br>
-    🐳 Containerized applications using <b>Docker</b><br>
-    ☸️ Deployed and managed workloads on <b>Kubernetes</b><br>
-    🧱 Automated infrastructure using <b>Terraform & Ansible</b><br>
-    🔐 Improved cloud security with <b>IAM best practices</b><br>
-    ⚡ Passionate about automation, reliability, and scalability
-  </div>
-  
-  <div style="flex: 3; text-align: right;">
-    <img src="https://raw.githubusercontent.com/sindhumgithub/sindhumgithub/main/about-me.png" width="240">
-  </div>
-</div>
+<table border="0">
+<tr>
+<td width="70%">
+💼 DevOps Engineer with <b>4 years of hands-on experience</b><br>
+☁️ Strong expertise in <b>AWS Cloud services</b><br>
+🔁 Built and managed <b>CI/CD pipelines using Jenkins</b><br>
+🐳 Containerized applications using <b>Docker</b><br>
+☸️ Deployed and managed workloads on <b>Kubernetes</b><br>
+🧱 Automated infrastructure using <b>Terraform & Ansible</b><br>
+🔐 Improved cloud security with <b>IAM best practices</b><br>
+⚡ Passionate about automation, reliability, and scalability
+</td>
+<td width="30%" align="right" valign="middle">
+<img src="https://raw.githubusercontent.com/sindhumgithub/sindhumgithub/main/about-me.png" width="240">
+</td>
+</tr>
+</table>
 
 ---
 
