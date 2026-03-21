@@ -9,8 +9,10 @@
   <span style="color:#2496ED;">Docker</span> |
   <span style="color:#326CE5;">Kubernetes</span> |
   <span style="color:#D24939;">Jenkins</span> |
-  <span style="color:#623CE4;">Terraform</span> 
-  <span style="color:#623CE4;">Ansible</span>
+  <span style="color:#623CE4;">Terraform</span> |
+  <span style="color:#623CE4;">Ansible</span> |
+  <span style="color:#623CE4;">Prometheus</span> |
+  <span style="color:#623CE4;">Grafana</span>
 </h3>
 
 ---
