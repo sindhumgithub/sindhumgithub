@@ -10,13 +10,14 @@
   <span style="color:#326CE5;">Kubernetes</span> |
   <span style="color:#D24939;">Jenkins</span> |
   <span style="color:#623CE4;">Terraform</span> 
+  <span style="color:#623CE4;">Ansible</span>
 </h3>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 DevOps Engineer with **3.5 years of hands-on experience**
+- 💼 DevOps Engineer with **4 years of hands-on experience**
 - ☁️ Strong expertise in **AWS Cloud services**
 - 🔁 Built and managed **CI/CD pipelines using Jenkins**
 - 🐳 Containerized applications using **Docker**
