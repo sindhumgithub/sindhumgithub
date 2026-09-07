@@ -12,7 +12,11 @@
   <span style="color:#623CE4;">Terraform</span> |
   <span style="color:#623CE4;">Ansible</span> |
   <span style="color:#623CE4;">Prometheus</span> |
-  <span style="color:#623CE4;">Grafana</span>
+  <span style="color:#623CE4;">Grafana</span>  |  
+  <span style="color:#FF9900;">Concourse Pipelines</span> |
+  <span style="color:#0A66C2;">FLY CLI</span>
+  
+  
 </h3>
 
 ---
